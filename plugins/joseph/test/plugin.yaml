@@ -1,0 +1,6 @@
+plugin:
+    name: 'joseph.test::lang.plugin.name'
+    description: 'joseph.test::lang.plugin.description'
+    author: Joseph
+    icon: oc-icon-adjust
+    homepage: ''
